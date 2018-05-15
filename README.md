@@ -1,2 +1,3 @@
 # sleepingBarber
-Sleeping barber problem
+
+My implementation for [Sleeping barber problem](https://en.wikipedia.org/wiki/Sleeping_barber_problem)
